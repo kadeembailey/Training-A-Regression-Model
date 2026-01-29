@@ -63,8 +63,3 @@ Training a regression model using ML lite platform
 Use the Test Model page to try predictions.
 
 <img width="1348" height="619" alt="TMR" src="https://github.com/user-attachments/assets/0e447abb-bbca-4acd-bd3e-b38f0f621da5" />
-
-
-
-
-Just tell me what format helps you learn best.
